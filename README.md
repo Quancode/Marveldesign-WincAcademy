@@ -2,4 +2,4 @@
 
 Hellooo There! 
 
-This is a website design. 
+This is my first very own website design. 
